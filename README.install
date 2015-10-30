@@ -1,0 +1,7 @@
+
+
+install:
+
+    ln -s $(pwd)/google-af.py /usr/local/bin
+    chmod a+x $(pwd)/google-af.py
+

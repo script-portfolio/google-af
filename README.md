@@ -8,11 +8,6 @@ we fill google search text field
 
 ![Screenshot on google page](/google-autofill.png "Google page scrinshot")
 
-
-
-
-![google-autofill.png](/google-autofill.png "Google page scrinshot")
-
 ##  Task
 
 

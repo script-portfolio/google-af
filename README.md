@@ -6,7 +6,7 @@ Google auto fill
 Scirpt to get google search machine answer prompt lines when
 we fill google search text field
 
-!"Scrinshot on google page](/google-autofill.png)
+!"Screenshot on google page](/google-autofill.png)
 
 Run:
     ### apple - default value

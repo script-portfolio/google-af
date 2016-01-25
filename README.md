@@ -3,9 +3,10 @@
 
 Google auto fill
 
-Scirpt to get google search machine answer prompt lines where 
+Scirpt to get google search machine answer prompt lines when
 we fill google search text field
 
+!"Screenshot on google page](/google-autofill.png)
 
 Run:
     ### apple - default value

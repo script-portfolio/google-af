@@ -11,7 +11,8 @@ we fill google search text field
 
 
 
-![google-autofill.png](/google-autofill.png "Here")
+![google-autofill.png](/google-autofill.png "Google page scrinshot")
+
 ##  Task
 
 
